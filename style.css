@@ -2,3 +2,15 @@ body{
     text-align: center;
     background: #00FFFF;
 }    
+.capa{
+    width: 20%;
+}
+.celular{
+    width: 15%;
+}
+.tablet{
+    width: 15%;
+}
+.notebook{
+    width: 15%;
+}
